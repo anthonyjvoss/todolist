@@ -128,6 +128,7 @@ input[type="text"] {
   color: #66fcf1;
   font-family: "Open-sans", sans-serif;
   margin-bottom: 20px;
+  margin-right: 10px;
 }
 input[type="text"]:focus {
   outline: none;
